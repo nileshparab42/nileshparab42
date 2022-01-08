@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Nilesh 👋 
 
-<!--
-**nileshparab42/nileshparab42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student and Developer!!
 
-Here are some ideas to get you started:
+- 🔭 I just Working on my college project called Occnet [Site for searching and posting jobs]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Create projects on Ml and datascience
+- ⚡ Fun fact: I love to draw Anime sketches
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+
