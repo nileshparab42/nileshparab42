@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height="200" width="1000" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
+<img align="center" alt="Coding" height="200" width="1500" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Nilesh Parab</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
