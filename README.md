@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ni_parab" target="blank"><img src="https://img.shields.io/twitter/follow/ni_parab?logo=twitter&style=for-the-badge" alt="ni_parab" /></a> </p>
 
-- 🔭 I’m currently working on [Skymate](https://github.com/nileshparab42/Skymate)
+- 🔭 I’m currently working on [Data Science](https://github.com/nileshparab42/Data-Science)
 
 - 🌱 I’m currently learning **Python Selenium, Machine Learning**
 
